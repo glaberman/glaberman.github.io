@@ -21,9 +21,6 @@ ylenia:
     - label: "Google Scholar"
       icon: "fas fa-fw fa-graduation-cap"
       url: "https://scholar.google.com"
-    - label: "ORCID"
-      icon: "ai ai-orcid"
-      url: "#"
 
 student1:
   name: "Student Name"
