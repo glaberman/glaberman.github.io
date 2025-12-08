@@ -1,14 +1,13 @@
 scott:
   name: "Scott Glaberman"
   bio: "Comparative toxicology, NAMs, species differences, risk assessment."
-  avatar: "/assets/images/people/scott.jpg"
   links:
     - label: "Google Scholar"
       icon: "fas fa-fw fa-graduation-cap"
       url: "https://scholar.google.com/citations?user=UO613zAAAAAJ&hl=en"
     - label: "ORCID"
       icon: "ai ai-orcid"
-      url: "https://orcid.org/XXXX-XXXX-XXXX-XXXX"
+      url: "https://orcid.org/"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/scott-glaberman-5267b616/"
@@ -16,7 +15,6 @@ scott:
 ylenia:
   name: "Ylenia Chiari"
   bio: "Evolutionary genomics and conservation biology."
-  avatar: "/assets/images/people/ylenia.jpg"
   links:
     - label: "Google Scholar"
       icon: "fas fa-fw fa-graduation-cap"
@@ -25,7 +23,6 @@ ylenia:
 student1:
   name: "Student Name"
   bio: "Short description of research."
-  avatar: "/assets/images/people/student1.jpg"
   links:
     - label: "Google Scholar"
       icon: "fas fa-fw fa-graduation-cap"
