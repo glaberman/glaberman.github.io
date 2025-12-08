@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: single
 title: "The Comparative Toxicology Lab"
 excerpt: "Comparative toxicology and evolutionary biology at the University of Birmingham."
 ---
