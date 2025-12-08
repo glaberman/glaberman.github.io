@@ -1,7 +1,7 @@
 ---
-layout: single
+layout: home
 title: "The Comparative Toxicology Lab"
-classes: wide
+excerpt: "Comparative toxicology and evolutionary biology at the University of Birmingham."
 ---
 
 We study comparative toxicology across species to understand chemical sensitivity, develop new approach methodologies, and improve environmental and human health risk assessment.
