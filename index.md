@@ -6,6 +6,10 @@ excerpt: "Comparative toxicology and evolutionary biology at the University of B
 
 We study comparative toxicology across species to understand chemical sensitivity, develop new approach methodologies, and improve environmental and human health risk assessment.
 
+<p align="center">
+  <img src="/assets/images/example-logo.png" alt="Comparative Toxicology Lab logo" width="220">
+</p>
+
 ## Location
 
 [University of Birmingham](https://www.birmingham.ac.uk/)  
