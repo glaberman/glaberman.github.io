@@ -14,6 +14,16 @@ We study comparative toxicology across species to understand chemical sensitivit
 
 ---
 
+<iframe 
+  src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2417.495237247162!2d-1.928283084694858!3d52.45335967980871!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4870bc319ddf7b35%3A0x5c6f0e1f0cc70c6f!2sUniversity%20of%20Birmingham%2C%20Edgbaston%2C%20Birmingham%20B15%202TT!5e0!3m2!1sen!2suk!4v1703200000000!5m2!1sen!2suk" 
+  width="100%" 
+  height="400" 
+  style="border:0;" 
+  allowfullscreen="" 
+  loading="lazy" 
+  referrerpolicy="no-referrer-when-downgrade">
+</iframe>
+
 ## Find Us
 
 The Comparative Toxicology Lab is located at the University of Birmingham, Edgbaston campus.
