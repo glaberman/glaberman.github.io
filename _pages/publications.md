@@ -5,20 +5,20 @@ layout: single
 author_profile: false
 ---
 
-Below is a curated list of peer-reviewed articles, book chapters, and policy outputs authored or co-authored by members of the Comparative Toxicology Lab. **Scott Glaberman’s name is bolded** throughout.
+Below is a curated list of peer-reviewed articles, book chapters, and policy outputs authored or co-authored by members of the Comparative Toxicology Lab. **Lab members are bolded** throughout.
 
 ---
 
 # 🟦 2025
 - Burden N., Mitchell C.A., Dang Z., Embry M.R., **Glaberman S.**, Lagadic L., Lynn S.G., Marini J., Mihaich E., McDermott E., Krzykwa J., Salinas E.R., Schoenfuss H., Thorpe K., Weltje L., Wheeler J.R. (2025). *Evaluation of in vivo fish and amphibian endocrine test guideline assays: current status and future needs.* **Environmental Toxicology and Chemistry**, 44(6):1477–1496. [https://doi.org/10.1093/etojnl/vgaf064](https://doi.org/10.1093/etojnl/vgaf064)
 
-- **Glaberman S.**, Spatz K., Colbourne J.K. (2025). *The evolutionary dilemma of broad-spectrum insecticides.* **BioScience**, 75(10):799–802. [https://doi.org/10.1093/biosci/biaf074](https://doi.org/10.1093/biosci/biaf074)
+- **Glaberman S.**, **Spatz K.**, Colbourne J.K. (2025). *The evolutionary dilemma of broad-spectrum insecticides.* **BioScience**, 75(10):799–802. [https://doi.org/10.1093/biosci/biaf074](https://doi.org/10.1093/biosci/biaf074)
 
 - **Glaberman S.**, Frey H.C., Tal T. (2025). *Dismantling EPA’s research office jeopardizes environmental safety, public health, and US competitiveness.* **PNAS**, 122(24):e2508060122. [https://doi.org/10.1073/pnas.2508060122](https://doi.org/10.1073/pnas.2508060122)
 
 - Uesseler F., Werner L., Schaffer S., Ibáñez A., **Glaberman S.**, Páez-Rosas D., Guayasamin J.M., Hofreiter M., Steinfartz S., Franke-Gerth F.A. (2025). *Transcriptomic detection of Candidatus Allocryptoplasma (Anaplasmataceae) in Galápagos marine iguanas.* **Parasites & Vectors**, 18(1):492. [https://doi.org/10.1186/s13071-025-07138-7](https://doi.org/10.1186/s13071-025-07138-7)
 
-- **Glaberman S.**, Bulls S.E., Platner L., Wagner P., Dreyer S., McCain S., Burgstaller S., Davis L.R., Turner H., Bruins-Van Sonsbeek L.G.R., Fischer D., Chiari Y. (2025). *Do turtles get cancer?* **BioScience**, 75(9):699–705. [https://doi.org/10.1093/biosci/biaf100](https://doi.org/10.1093/biosci/biaf100)
+- **Glaberman S.**, **Bulls S.E.**, Platner L., Wagner P., Dreyer S., McCain S., Burgstaller S., Davis L.R., Turner H., Bruins-Van Sonsbeek L.G.R., Fischer D., Chiari Y. (2025). *Do turtles get cancer?* **BioScience**, 75(9):699–705. [https://doi.org/10.1093/biosci/biaf100](https://doi.org/10.1093/biosci/biaf100)
 
 - Wheeler J.R., Puglisi R., Bejarano A.C., Gao Z., Lagadic L., **Glaberman S.**, Mitchell C.A., Burden N., Mingo V., Lynn S.G., Embry M.R. (2025). *Control performance of Amphibian Metamorphosis Assays with Xenopus laevis.* **Regulatory Toxicology and Pharmacology**, 157:105773.  
   [https://doi.org/10.1016/j.yrtph.2025.105773](https://doi.org/10.1016/j.yrtph.2025.105773)
@@ -38,13 +38,13 @@ Below is a curated list of peer-reviewed articles, book chapters, and policy out
 - Chiari Y., Howard L., Moreno N., Relyea S., Dunnigan J., Boyer M.C., Kardos M., **Glaberman S.**, Luikart G. (2023). *Influence of RNA-Seq library construction, sampling methods, and tissue harvesting time on gene expression estimation.* **Molecular Ecology Resources**, 23(4):803–817.  
   [https://doi.org/10.1111/1755-0998.13757](https://doi.org/10.1111/1755-0998.13757)
 
-- Weber Hertel S., Stupavsky J., Alford K., Hicks H.R., Heaton A., Katlein N., Hastings B.T., Stern A., Jett S., Wang A.Y., Wang B., **Glaberman S.**, Chiari Y. (2023). *Dominant attitudes and values toward wildlife and the environment in coastal Alabama.* **Conservation Science and Practice**, 5(8):e12957.  
+- Weber Hertel S., Stupavsky J., Alford K., Hicks H.R., **Heaton A.**, Katlein N., Hastings B.T., Stern A., Jett S., Wang A.Y., Wang B., **Glaberman S.**, Chiari Y. (2023). *Dominant attitudes and values toward wildlife and the environment in coastal Alabama.* **Conservation Science and Practice**, 5(8):e12957.  
   [https://doi.org/10.1111/csp2.12957](https://doi.org/10.1111/csp2.12957)
 
-- Hawley L., Smalling K.L., **Glaberman S.** (2023). *Critical review of the phytohemagglutinin assay for assessing amphibian immunity.* **Conservation Physiology**, 11(1):coad090.  
+- **Hawley L.**, Smalling K.L., **Glaberman S.** (2023). *Critical review of the phytohemagglutinin assay for assessing amphibian immunity.* **Conservation Physiology**, 11(1):coad090.  
   [https://doi.org/10.1093/conphys/coad090](https://doi.org/10.1093/conphys/coad090)
 
-- Hawkins C., Foster G., **Glaberman S.** (2023). *Chemical prioritization of pharmaceuticals and personal care products in an urban tributary of the Potomac River.* **Science of the Total Environment**, 881:163514.  
+- **Hawkins C.**, Foster G., **Glaberman S.** (2023). *Chemical prioritization of pharmaceuticals and personal care products in an urban tributary of the Potomac River.* **Science of the Total Environment**, 881:163514.  
   [https://doi.org/10.1016/j.scitotenv.2023.163514](https://doi.org/10.1016/j.scitotenv.2023.163514)
 
 ---
@@ -53,22 +53,22 @@ Below is a curated list of peer-reviewed articles, book chapters, and policy out
 - Katlein N., Ray M., Wilkinson A., Claude J., Kiskowski M., Wang B., **Glaberman S.**, Chiari Y. (2022). *Does colour impact responses to images in geckos?* **Journal of Zoology**, 317(2):138–146.  
   [https://doi.org/10.1111/jzo.12969](https://doi.org/10.1111/jzo.12969)
 
-- Heaton A., Milligan E., Faulconer E., Allen A., Nguyen T., Weir S.M., **Glaberman S.** (2022). *Variation in copper sensitivity between laboratory and wild strains of C. elegans.* **Chemosphere**, 287:131883.  
+- **Heaton A.**, **Milligan E.**, **Faulconer E.**, Allen A., Nguyen T., Weir S.M., **Glaberman S.** (2022). *Variation in copper sensitivity between laboratory and wild strains of C. elegans.* **Chemosphere**, 287:131883.  
   [https://doi.org/10.1016/j.chemosphere.2021.131883](https://doi.org/10.1016/j.chemosphere.2021.131883)
 
 ---
 
 # 🟦 2021
-- **Glaberman S.**, Bulls S.E., Vazquez J.M., Chiari Y., Lynch V.J. (2021). *Concurrent Evolution of Antiaging Gene Duplications and Cellular Phenotypes in Long-Lived Turtles.* **Genome Biology and Evolution**, 13(12):evab244.  
+- **Glaberman S.**, **Bulls S.E.**, Vazquez J.M., Chiari Y., Lynch V.J. (2021). *Concurrent Evolution of Antiaging Gene Duplications and Cellular Phenotypes in Long-Lived Turtles.* **Genome Biology and Evolution**, 13(12):evab244.  
   [https://doi.org/10.1093/gbe/evab244](https://doi.org/10.1093/gbe/evab244)
 
-- **Glaberman S.**, Heaton A., Weir S. (2021). *Intra- and interspecific toxicity testing methods and data for nematodes exposed to metals.* **Data in Brief**, 39:107544.  
+- **Glaberman S.**, **Heaton A.**, Weir S. (2021). *Intra- and interspecific toxicity testing methods and data for nematodes exposed to metals.* **Data in Brief**, 39:107544.  
   [https://doi.org/10.1016/j.dib.2021.107544](https://doi.org/10.1016/j.dib.2021.107544)
 
 ---
 
 # 🟦 2020
-- Heaton A., Faulconer E., Milligan E., Kroetz M.B., Weir S.M., **Glaberman S.** (2020). *Interspecific variation in nematode responses to metals.* **ET&C**, 39(5):1006–1016.  
+- **Heaton A.**, **Faulconer E.**, **Milligan E.**, Kroetz M.B., Weir S.M., **Glaberman S.** (2020). *Interspecific variation in nematode responses to metals.* **ET&C**, 39(5):1006–1016.  
   [https://doi.org/10.1002/etc.4689](https://doi.org/10.1002/etc.4689)
 
 - Poulakakis N., Miller J.M., Jensen E.L., Beheregaray L.B., Russello M.A., **Glaberman S.**, Boore J., Caccone A. (2020). *Colonization history of Galápagos giant tortoises.* **J. Zoological Systematics & Evolutionary Research**, 58(4):1262–1275.  
@@ -86,7 +86,7 @@ Below is a curated list of peer-reviewed articles, book chapters, and policy out
 ---
 
 # 🟦 2018
-- Sykora P., Chiari Y., Heaton A., Moreno N., **Glaberman S.**, Sobol R.W. (2018). *Application of the CometChip platform to assess DNA damage in turtles.* **Environmental and Molecular Mutagenesis**, 59(4):322–333.  
+- Sykora P., Chiari Y., **Heaton A.**, **Moreno N.**, **Glaberman S.**, Sobol R.W. (2018). *Application of the CometChip platform to assess DNA damage in turtles.* **Environmental and Molecular Mutagenesis**, 59(4):322–333.  
   [https://doi.org/10.1002/em.22183](https://doi.org/10.1002/em.22183)
 
 - Chiari Y., **Glaberman S.**, Lynch V.J. (2018). *Insights on cancer resistance in vertebrates: reptiles as a parallel system to mammals.* **Nature Reviews Cancer**, 18(8):525.  
