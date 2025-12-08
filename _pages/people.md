@@ -6,7 +6,7 @@ layout: single
 
 ## Principal Investigator
 
-{% include author-profile.html author="scott" %}
+{% include author-profile.html author="Scott Glaberman" %}
 
 ---
 
