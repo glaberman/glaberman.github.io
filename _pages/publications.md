@@ -9,6 +9,16 @@ classes: wide
 Below is a curated list of peer-reviewed articles, book chapters, and policy outputs authored or co-authored by members of the Comparative Toxicology Lab. **Lab members are bolded** throughout.
 
 ---
+title: "Publications"
+permalink: /publications/
+layout: single
+author_profile: false
+classes: wide
+---
+
+Below is a curated list of peer-reviewed articles, book chapters, and policy outputs authored or co-authored by members of the Comparative Toxicology Lab. **Lab members are bolded** throughout.
+
+---
 
 # 🟦 2025
 - Burden N., Mitchell C.A., Dang Z., Embry M.R., **Glaberman S.**, Lagadic L., Lynn S.G., Marini J., Mihaich E., McDermott E., Krzykwa J., Salinas E.R., Schoenfuss H., Thorpe K., Weltje L., Wheeler J.R. (2025). *Evaluation of in vivo fish and amphibian endocrine test guideline assays: current status and future needs.* **Environmental Toxicology and Chemistry**, 44(6):1477–1496. [https://doi.org/10.1093/etojnl/vgaf064](https://doi.org/10.1093/etojnl/vgaf064)
@@ -26,6 +36,12 @@ Below is a curated list of peer-reviewed articles, book chapters, and policy out
 
 - **Glaberman S.**, Wei C. (2025). *Risks of ending US science-policy training.* **Science**, 389(6761):692.  
   [https://doi.org/10.1126/science.adz0737](https://doi.org/10.1126/science.adz0737)
+
+- Sattler L., Embry M.R., **Glaberman S.** (2025). *Evaluating High-Throughput Assays for Pesticide Ecological Risk Assessment.* **Regulatory Toxicology and Pharmacology**.  
+  https://doi.org/10.1016/j.yrtph.2025.105892
+
+- **Bulls S.E.**, Finn E., Sykora P., Lynch V.J., Pramanik P., **Glaberman S.**, Chiari Y. (2025). *Assessing CometChip technology for DNA damage studies in non-model species.* **BMC Research Notes**, 18:243.  
+  https://doi.org/10.1186/s13104-025-067xx-x
 
 ---
 
@@ -57,6 +73,15 @@ Below is a curated list of peer-reviewed articles, book chapters, and policy out
 - **Heaton A.**, **Milligan E.**, **Faulconer E.**, Allen A., Nguyen T., Weir S.M., **Glaberman S.** (2022). *Variation in copper sensitivity between laboratory and wild strains of C. elegans.* **Chemosphere**, 287:131883.  
   [https://doi.org/10.1016/j.chemosphere.2021.131883](https://doi.org/10.1016/j.chemosphere.2021.131883)
 
+- Moreno N., **Heaton A.**, Bruening K., Milligan E., Nelson D., **Glaberman S.**, et al. (2022). *Hybridization and low genetic diversity in the endangered Alabama red-bellied turtle (Pseudemys alabamensis).* **Ecology and Evolution**, 12:e8964.  
+  https://doi.org/10.1002/ece3.8964
+
+- Jensen E.L., Quinzin M.C., Miller J.M., Russello M.A., Garrick R.C., Edwards D.L., **Glaberman S.**, et al. (2022). *A new lineage of Galápagos giant tortoises identified from museum samples.* **Heredity**, 128:261–270.  
+  https://doi.org/10.1038/s41437-022-00507-7
+
+- Daza J.D., Chiari Y., Daza-Herrera E., **Glaberman S.**, et al. (2022). *A rare case of caudal bifurcation in a miniaturized gecko from Puerto Rico.* **The Anatomical Record**.  
+  https://doi.org/10.1002/ar.24836
+
 ---
 
 # 🟦 2021
@@ -65,6 +90,9 @@ Below is a curated list of peer-reviewed articles, book chapters, and policy out
 
 - **Glaberman S.**, **Heaton A.**, Weir S. (2021). *Intra- and interspecific toxicity testing methods and data for nematodes exposed to metals.* **Data in Brief**, 39:107544.  
   [https://doi.org/10.1016/j.dib.2021.107544](https://doi.org/10.1016/j.dib.2021.107544)
+
+- Lamont M.M., Moreno N., Camacho-Sánchez F.Y., Acosta-Sánchez H.H., **Glaberman S.**, Reyes-Lopez M.A., Chiari Y. (2021). *Genetic diversity of immature Kemp's ridley (Lepidochelys kempii) sea turtles from the northern Gulf of Mexico.* **Aquatic Conservation: Marine and Freshwater Ecosystems**, 31(10):3003–3010.  
+  [https://doi.org/10.1002/aqc.3684](https://doi.org/10.1002/aqc.3684)
 
 ---
 
@@ -84,6 +112,12 @@ Below is a curated list of peer-reviewed articles, book chapters, and policy out
 - Quesada V., Freitas-Rodríguez S., Miller J., Pérez-Silva J.G., Jiang Z.-F., Tapia W., Santiago-Fernández O., Campos-Iglesias D., Kuderna L.F.K., Quinzin M., Álvarez M.G., Carrero D., Beheregaray L.B., Gibbs J.P., Chiari Y., **Glaberman S.**, Ciofi C., Araujo-Voces M., Mayoral P., Arango J.R., Tamargo-Gómez I., Roiz-Valle D., Pascual-Torner M., Evans B.R., Edwards D.L., Garrick R.C., Russello M.A., Poulakakis N., Gaughran S.J., Rueda D.O., Bretones G., Marquès-Bonet T., White K.P., Caccone A., López-Otín C. (2019). *Giant tortoise genomes provide insights into longevity and age-related disease.* **Nature Ecology & Evolution**, 3(1):87–95.  
   [https://doi.org/10.1038/s41559-018-0733-x](https://doi.org/10.1038/s41559-018-0733-x)
 
+- Jankowski M.D., **Glaberman S.**, Kimball D.B., Taylor-McCabe K.J., Fair J.M. (2019). *Sialic acid on avian erythrocytes.* **Comparative Biochemistry and Physiology Part B**, 231:25–31.  
+  https://doi.org/10.1016/j.cbpb.2019.01.006
+
+- **Glaberman S.**, Kiwiet J., Aubee C.B. (2019). *Evaluating the role of fish as surrogates for amphibians in pesticide ecological risk assessment.* **Chemosphere**, 235:952–958.  
+  https://doi.org/10.1016/j.chemosphere.2019.06.178
+
 ---
 
 # 🟦 2018
@@ -93,7 +127,23 @@ Below is a curated list of peer-reviewed articles, book chapters, and policy out
 - Chiari Y., **Glaberman S.**, Lynch V.J. (2018). *Insights on cancer resistance in vertebrates: reptiles as a parallel system to mammals.* **Nature Reviews Cancer**, 18(8):525.  
   [https://doi.org/10.1038/s41568-018-0033-4](https://doi.org/10.1038/s41568-018-0033-4)
 
+- Hylton A., Chiari Y., Capellini I., Barron M.G., **Glaberman S.** (2018). *Mixed phylogenetic signal in fish toxicity data across chemical classes.* **Ecological Applications**, 28(3):605–611.  
+  https://doi.org/10.1002/eap.1678
+
 ---
+
+# 🟦 2017
+- **Glaberman S.**, Padilla S., Barron M.G. (2017). *Evaluating the zebrafish embryo toxicity test for pesticide hazard screening.* **Environmental Toxicology and Chemistry**, 36(5):1221–1226.  
+  https://doi.org/10.1002/etc.3643
+
+- Chiari Y., Moreno N., Elmore J., Hylton A., Ray A., Burkhardt R., **Glaberman S.** (2017). *Widespread occurrence of Batrachochytrium dendrobatidis in Southern Alabama, USA.* **Herpetological Review**, 48(2):356–359.  
+  [https://ssarherps.org/herpetological-review-pdfs/](https://ssarherps.org/herpetological-review-pdfs/)
+  
+---
+
+# 🟦 2016
+- Chiari Y., **Glaberman S.**, Tarroso P., et al. (2016). *Ecological and evolutionary influences on body size and shape in the Galápagos marine iguana (Amblyrhynchus cristatus).* **Oecologia**, 181(3):885–894.  
+  [https://doi.org/10.1007/s00442-016-3618-1](https://doi.org/10.1007/s00442-016-3618-1)
 
 # 🟦 2015
 - Poulakakis N., Edwards D.L., Chiari Y., Garrick R.C., Russello M.A., Benavides E., Watkins-Colwell G.J., **Glaberman S.**, Tapia W., Gibbs J.P., Cayot L.J., Caccone A. (2015). *Description of a new Galápagos giant tortoise species from Cerro Fatal.* **PLoS ONE**, 10(10):e0138779.  
@@ -188,3 +238,7 @@ Below is a curated list of peer-reviewed articles, book chapters, and policy out
 # 🟦 2001
 - Peng M.M., Matos O., Gatei W., Das P., Stantic-Pavlinic M., Bern C., Sulaiman I.M., **Glaberman S.**, Lal A.A., Xiao L. (2001). *A comparison of Cryptosporidium subgenotypes across regions.* **Journal of Eukaryotic Microbiology**, 48(Suppl):28S–31S.  
   [https://doi.org/10.1111/j.1550-7408.2001.tb00442.x](https://doi.org/10.1111/j.1550-7408.2001.tb00442.x)
+
+- **Glaberman S.**, Sulaiman I.M., Bern C., Levior J., Peng M.M., Morgan U., Gilman R., Lal A.A., Xiao L. (2001). *A multilocus genotypic analysis of Cryptosporidium meleagridis.* **Journal of Eukaryotic Microbiology**, 48(Suppl):19S–22S.  
+  [https://doi.org/10.1111/j.1550-7408.2001.tb00439.x](https://doi.org/10.1111/j.1550-7408.2001.tb00439.x)
+
