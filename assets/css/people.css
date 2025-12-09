@@ -1,5 +1,14 @@
 /* =========================
-   PEOPLE GRID LAYOUT
+   BREAK OUT OF MM CONTENT COLUMN
+   ========================= */
+
+.people-fullwidth {
+  width: 100vw;
+  margin-left: calc(-50vw + 50%);
+}
+
+/* =========================
+   GRID
    ========================= */
 
 .people-grid {
@@ -8,61 +17,51 @@
   gap: 4rem;
   max-width: 1400px;
   margin: 3rem auto;
+  padding: 0 3rem;
 }
 
 /* =========================
-   PEOPLE CARD
+   CARD
    ========================= */
 
 .people-card {
   text-align: center;
-  margin: 0;
-  padding: 1rem 2rem;
-  max-width: none;
-  border-bottom: none;
 }
 
-/* PHOTO — large and dominant */
+/* PHOTO — NO SQUISHING */
 .people-card img.bio-photo {
   width: 260px;
   height: 260px;
   border-radius: 50%;
+  object-fit: cover;
   margin-bottom: 1.2rem;
 }
 
 /* NAME */
 .people-card h3 {
-  margin: 0.4rem 0 0.2rem;
   font-size: 1.4rem;
+  margin: 0.4rem 0 0.2rem;
 }
 
-/* ROLE (under name) */
+/* ROLE */
 .people-card .role {
   font-weight: 600;
   color: #666;
   margin-bottom: 0.6rem;
 }
 
-/* BIO — wide, readable */
+/* BIO */
 .people-card p.bio {
-  max-width: none;
-  margin: 0.6rem auto 1.2rem;
   font-size: 1.05rem;
   line-height: 1.6;
+  max-width: 600px;
+  margin: 0.6rem auto 1.2rem;
 }
 
-/* SOCIAL ICONS */
+/* ICONS */
 .people-card .social-icons a {
   margin: 0 0.5rem;
   font-size: 1.2rem;
-}
-
-/* =========================
-   WIDEN PAGE CONTENT (People only)
-   ========================= */
-
-.layout--single .page__content {
-  max-width: 1500px;
 }
 
 /* =========================
@@ -72,6 +71,7 @@
 @media (max-width: 900px) {
   .people-grid {
     grid-template-columns: 1fr;
+    padding: 0 1.5rem;
   }
 
   .people-card img.bio-photo {
