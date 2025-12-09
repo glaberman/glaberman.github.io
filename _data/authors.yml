@@ -1,6 +1,6 @@
 scott:
   name: "Scott Glaberman"
-  bio: "Comparative toxicology, NAMs, species differences, risk assessment."
+  bio: "Comparative toxicology, ecotoxicology, risk assessment, NAMs, cancer evolution"
   avatar: "/assets/images/people/scott.jpg"
   links:
     - label: "Google Scholar"
@@ -10,20 +10,50 @@ scott:
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/scott-glaberman-5267b616/"
 
-ylenia:
-  name: "Ylenia Chiari"
-  bio: "Evolutionary genomics and conservation biology."
-  avatar: "/assets/images/people/ylenia.jpg"
+stephanie:
+  name: "Stephanie Bulls"
+  bio: "Comparative oncology, turtles, cell biology, cancer evolution"
+  avatar: "/assets/images/people/stephanie.jpg"
   links:
     - label: "Google Scholar"
       icon: "fas fa-fw fa-graduation-cap"
       url: "https://scholar.google.com"
-
-student1:
-  name: "Student Name"
-  bio: "Short description of research."
-  avatar: "/assets/images/people/student1.jpg"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/izzy-kavanagh/"
+      
+izzy:
+  name: "Isabelle Kavanagh"
+  bio: "Comparative toxicology, NAMs, cross-species extrapolation, Bayesian statistics, cellular toxicology"
+  avatar: "/assets/images/people/izzy.jpg"
   links:
     - label: "Google Scholar"
       icon: "fas fa-fw fa-graduation-cap"
-      url: "#"
+      url: "https://scholar.google.com"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/izzy-kavanagh/"
+
+molly:
+  name: "Molly Cooper"
+  bio: "Nematode toxicology, alternative methods, neurotoxicity, pesticides"
+  avatar: "/assets/images/people/molly.jpg"
+  links:
+    - label: "Google Scholar"
+      icon: "fas fa-fw fa-graduation-cap"
+      url: "https://scholar.google.com"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/molly-cooper-a6004919b"
+
+paula:
+  name: "Paula Garcia"
+  bio: "NAMs, Chemical Regulation, Risk Assessment"
+  avatar: "/assets/images/people/molly.jpg"
+  links:
+    - label: "Google Scholar"
+      icon: "fas fa-fw fa-graduation-cap"
+      url: "https://scholar.google.com"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/paula-garc%C3%ADa-a3909a245"
