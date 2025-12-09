@@ -3,6 +3,7 @@ title: "Publications"
 permalink: /publications/
 layout: single
 author_profile: false
+classes: wide
 ---
 
 Below is a curated list of peer-reviewed articles, book chapters, and policy outputs authored or co-authored by members of the Comparative Toxicology Lab. **Lab members are bolded** throughout.
