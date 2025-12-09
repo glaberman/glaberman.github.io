@@ -1,18 +1,18 @@
 # Site settings
 title: "The Comparative Toxicology Lab"
-logo: "/assets/images/lab-logo.png"
+logo: "/assets/images/example-logo.png"
+masthead_title: ""
 masthead_nav: true
+
 description: >-
   Comparative toxicology across species to understand chemical sensitivity,
   develop new approach methodologies, and improve environmental and human health
   risk assessment.
+
 twitter_username:
 github_username:
 minimal_mistakes_skin: default
 search: true
-
-# Enable masthead menu
-masthead_nav: true
 
 # Build settings
 markdown: kramdown
