@@ -1,20 +1,19 @@
 ---
 title: "People"
-permalink: /people/
 layout: single
-classes: wide
-author_profile: false
+permalink: /people/
+author_profile: true
 ---
 
-## Principal Investigator
+# Principal Investigator
 {% include author-profile.html author="scott" %}
 
 ---
 
-## Collaborators
+# Collaborators
 {% include author-profile.html author="ylenia" %}
 
 ---
 
-## Students
+# Students
 {% include author-profile.html author="student1" %}
