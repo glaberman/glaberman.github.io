@@ -1,0 +1,7 @@
+/* =========================
+   GLOBAL CONTENT WIDTH FIX
+   ========================= */
+
+.page__content {
+  max-width: 1200px;
+}
