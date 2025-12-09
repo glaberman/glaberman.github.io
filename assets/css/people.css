@@ -81,10 +81,10 @@
 }
 
 /* =========================
-   PEOPLE PAGE TITLE STYLING
+   PAGE TITLE STYLING (ALL PAGES)
    ========================= */
 
-.page-people .page__title {
+.page__title {
   color: #222;              /* darker, not gray */
   font-weight: 600;
   font-size: 2.1rem;
