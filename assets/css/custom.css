@@ -2,18 +2,21 @@
    GLOBAL WIDTH FIX (ALL PAGES)
    ========================================= */
 
-/* This is the REAL width limiter in Minimal Mistakes */
 .layout--single .page__inner-wrap {
   max-width: 1400px;
 }
 
-/* Give text room to breathe */
 .layout--single .page__content {
   max-width: none;
 }
 
+/* ✅ THIS is the missing rule */
+.layout--single .page__content > * {
+  max-width: none;
+}
+
 /* =========================================
-   PAGE TITLES (fix ugly gray headings)
+   PAGE TITLES
    ========================================= */
 
 .page__title {
