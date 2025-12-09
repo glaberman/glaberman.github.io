@@ -11,27 +11,27 @@ Below is a curated list of peer-reviewed articles, book chapters, and policy out
 ---
 
 # 🟦 2025
-- Burden N., Mitchell C.A., Dang Z., Embry M.R., **Glaberman S.**, Lagadic L., Lynn S.G., Marini J., Mihaich E., McDermott E., Krzykwa J., Salinas E.R., Schoenfuss H., Thorpe K., Weltje L., Wheeler J.R. (2025). *Evaluation of in vivo fish and amphibian endocrine test guideline assays: current status and future needs.* **Environmental Toxicology and Chemistry**, 44(6):1477–1496. [https://doi.org/10.1093/etojnl/vgaf064](https://doi.org/10.1093/etojnl/vgaf064)
-
-- **Glaberman S.**, **Spatz K.**, Colbourne J.K. (2025). *The evolutionary dilemma of broad-spectrum insecticides.* **BioScience**, 75(10):799–802. [https://doi.org/10.1093/biosci/biaf074](https://doi.org/10.1093/biosci/biaf074)
+- **Glaberman S.**, Wei C. (2025). *Risks of ending US science-policy training.* **Science**, 389(6761):692.  
+  [https://doi.org/10.1126/science.adz0737](https://doi.org/10.1126/science.adz0737)
 
 - **Glaberman S.**, Frey H.C., Tal T. (2025). *Dismantling EPA’s research office jeopardizes environmental safety, public health, and US competitiveness.* **PNAS**, 122(24):e2508060122. [https://doi.org/10.1073/pnas.2508060122](https://doi.org/10.1073/pnas.2508060122)
 
-- Uesseler F., Werner L., Schaffer S., Ibáñez A., **Glaberman S.**, Páez-Rosas D., Guayasamin J.M., Hofreiter M., Steinfartz S., Franke-Gerth F.A. (2025). *Transcriptomic detection of Candidatus Allocryptoplasma (Anaplasmataceae) in Galápagos marine iguanas.* **Parasites & Vectors**, 18(1):492. [https://doi.org/10.1186/s13071-025-07138-7](https://doi.org/10.1186/s13071-025-07138-7)
-
 - **Glaberman S.**, **Bulls S.E.**, Platner L., Wagner P., Dreyer S., McCain S., Burgstaller S., Davis L.R., Turner H., Bruins-Van Sonsbeek L.G.R., Fischer D., Chiari Y. (2025). *Do turtles get cancer?* **BioScience**, 75(9):699–705. [https://doi.org/10.1093/biosci/biaf100](https://doi.org/10.1093/biosci/biaf100)
+
+- **Glaberman S.**, **Spatz K.**, Colbourne J.K. (2025). *The evolutionary dilemma of broad-spectrum insecticides.* **BioScience**, 75(10):799–802. [https://doi.org/10.1093/biosci/biaf074](https://doi.org/10.1093/biosci/biaf074)
+
+- Sattler L., Embry M.R., **Glaberman S.** (2025). *Evaluating High-Throughput Assays for Pesticide Ecological Risk Assessment.* **Regulatory Toxicology and Pharmacology**.  
+  [https://doi.org/10.1016/j.yrtph.2025.105892](https://doi.org/10.1016/j.yrtph.2025.105892)
+
+- Burden N., Mitchell C.A., Dang Z., Embry M.R., **Glaberman S.**, Lagadic L., Lynn S.G., Marini J., Mihaich E., McDermott E., Krzykwa J., Salinas E.R., Schoenfuss H., Thorpe K., Weltje L., Wheeler J.R. (2025). *Evaluation of in vivo fish and amphibian endocrine test guideline assays: current status and future needs.* **Environmental Toxicology and Chemistry**, 44(6):1477–1496. [https://doi.org/10.1093/etojnl/vgaf064](https://doi.org/10.1093/etojnl/vgaf064)
 
 - Wheeler J.R., Puglisi R., Bejarano A.C., Gao Z., Lagadic L., **Glaberman S.**, Mitchell C.A., Burden N., Mingo V., Lynn S.G., Embry M.R. (2025). *Control performance of Amphibian Metamorphosis Assays with Xenopus laevis.* **Regulatory Toxicology and Pharmacology**, 157:105773.  
   [https://doi.org/10.1016/j.yrtph.2025.105773](https://doi.org/10.1016/j.yrtph.2025.105773)
 
-- **Glaberman S.**, Wei C. (2025). *Risks of ending US science-policy training.* **Science**, 389(6761):692.  
-  [https://doi.org/10.1126/science.adz0737](https://doi.org/10.1126/science.adz0737)
-
-- Sattler L., Embry M.R., **Glaberman S.** (2025). *Evaluating High-Throughput Assays for Pesticide Ecological Risk Assessment.* **Regulatory Toxicology and Pharmacology**.  
-  https://doi.org/10.1016/j.yrtph.2025.105892
-
 - **Bulls S.E.**, Finn E., Sykora P., Lynch V.J., Pramanik P., **Glaberman S.**, Chiari Y. (2025). *Assessing CometChip technology for DNA damage studies in non-model species.* **BMC Research Notes**, 18:243.  
-  https://doi.org/10.1186/s13104-025-067xx-x
+  [https://doi.org/10.1186/s13104-025-067xx-x](https://doi.org/10.1186/s13104-025-067xx-x)
+
+- Uesseler F., Werner L., Schaffer S., Ibáñez A., **Glaberman S.**, Páez-Rosas D., Guayasamin J.M., Hofreiter M., Steinfartz S., Franke-Gerth F.A. (2025). *Transcriptomic detection of Candidatus Allocryptoplasma (Anaplasmataceae) in Galápagos marine iguanas.* **Parasites & Vectors**, 18(1):492. [https://doi.org/10.1186/s13071-025-07138-7](https://doi.org/10.1186/s13071-025-07138-7)
 
 ---
 
