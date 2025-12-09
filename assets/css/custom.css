@@ -7,7 +7,7 @@
 }
 
 .layout--single.wide .page__inner-wrap {
-  max-width: 1500px;  /* wide pages (Publications) */
+  max-width: 1400px;  /* wide pages (Publications) */
 }
 
 /* =========================================
@@ -21,4 +21,9 @@
   border-bottom: 2px solid #e5e5e5;
   padding-bottom: 0.6rem;
   margin-bottom: 2rem;
+}
+
+/* Remove the theme’s hard width cap */
+.layout--single.wide #main {
+  max-width: none;
 }
