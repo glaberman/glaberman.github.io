@@ -1,0 +1,13 @@
+<div class="people-card">
+  <img class="bio-photo" src="{{ site.url }}{{ include.avatar }}" alt="{{ include.name }}">
+  <h3>{{ include.name }}</h3>
+  <p class="bio">{{ include.bio }}</p>
+
+  <div class="social-icons">
+    {% for link in include.links %}
+      <a href="{{ link.url }}" target="_blank">
+        <i class="{{ link.icon }}"></i>
+      </a>
+    {% endfor %}
+  </div>
+</div>
