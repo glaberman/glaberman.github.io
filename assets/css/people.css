@@ -79,3 +79,16 @@
     height: 180px;
   }
 }
+
+/* =========================
+   PEOPLE PAGE TITLE STYLING
+   ========================= */
+
+.page-people .page__title {
+  color: #222;              /* darker, not gray */
+  font-weight: 600;
+  font-size: 2.1rem;
+  margin-bottom: 1.5rem;
+  border-bottom: 2px solid #e5e5e5;
+  padding-bottom: 0.6rem;
+}
