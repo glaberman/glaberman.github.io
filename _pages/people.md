@@ -3,6 +3,8 @@ title: "People"
 permalink: /people/
 layout: single
 author_profile: false
+sidebar:
+  author_profile: true
 ---
 
 ## Principal Investigator
