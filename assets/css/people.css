@@ -35,7 +35,7 @@
   display: grid;
   grid-template-columns: repeat(2, minmax(0, 1fr));
   gap: 4rem;
-  max-width: 1200px;   /* ← THIS is the big change */
+  max-width: 1500px;   /* ← THIS is the big change */
   margin: 3rem auto;
 }
 
