@@ -1,0 +1,29 @@
+.people-card {
+  text-align: center;
+  margin: 2.5rem 0;
+  padding-bottom: 2rem;
+  border-bottom: 1px solid #e5e5e5;
+}
+
+.people-card img.bio-photo {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  margin-bottom: 1rem;
+}
+
+.people-card h3 {
+  margin-top: 0.3rem;
+  margin-bottom: 0.2rem;
+}
+
+.people-card p.bio {
+  max-width: 550px;
+  margin: 0.5rem auto 1rem auto;
+  font-size: 1.05rem;
+}
+
+.people-card .social-icons a {
+  margin: 0 0.4rem;
+  font-size: 1.1rem;
+}
