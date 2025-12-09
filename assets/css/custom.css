@@ -1,22 +1,17 @@
 /* =========================================
-   GLOBAL WIDTH FIX (ALL PAGES)
+   GLOBAL PAGE WIDTH (Minimal Mistakes-safe)
    ========================================= */
 
-.layout--single .page__inner-wrap {
-  max-width: 1400px;
+.layout--single:not(.wide) .page__inner-wrap {
+  max-width: 900px;   /* normal pages */
 }
 
-.layout--single .page__content {
-  max-width: none;
-}
-
-/* ✅ THIS is the missing rule */
-.layout--single .page__content > * {
-  max-width: none;
+.layout--single.wide .page__inner-wrap {
+  max-width: 1400px;  /* wide pages (Publications) */
 }
 
 /* =========================================
-   PAGE TITLES
+   PAGE TITLES (cosmetic only)
    ========================================= */
 
 .page__title {
