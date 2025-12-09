@@ -91,10 +91,6 @@ tag_archive:
   type: liquid
   path: /tags/
 
-sass:
-  load_paths:
-    - assets/css
-
 # Custom head includes
 include_head:
   - head/custom.html
