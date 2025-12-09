@@ -1,19 +1,22 @@
 ---
 title: "People"
-layout: single
 permalink: /people/
-author_profile: true
+layout: single
+author_profile: false
 ---
 
-# Principal Investigator
+## Principal Investigator
+
 {% include author-profile.html author="scott" %}
 
 ---
 
-# Collaborators
+## Collaborators
+
 {% include author-profile.html author="ylenia" %}
 
 ---
 
-# Students
+## Students
+
 {% include author-profile.html author="student1" %}
