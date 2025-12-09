@@ -8,7 +8,7 @@ sidebar:
 
 ## Principal Investigator
 
-{% include people-card.html 
+{% include people-card.html
    name=site.data.authors.scott.name
    bio=site.data.authors.scott.bio
    avatar="/assets/images/people/scott.jpg"
@@ -17,22 +17,29 @@ sidebar:
 
 ---
 
-## Collaborators
+## Students & Postdocs
 
-{% include people-card.html 
-   name=site.data.authors.ylenia.name
-   bio=site.data.authors.ylenia.bio
-   avatar="/assets/images/people/ylenia.jpg"
-   links=site.data.authors.ylenia.links
-%}
+<div class="people-grid">
 
----
-
-## Students
-
-{% include people-card.html 
+{% include people-card.html
    name=site.data.authors.student1.name
    bio=site.data.authors.student1.bio
    avatar="/assets/images/people/student1.jpg"
    links=site.data.authors.student1.links
 %}
+
+{% include people-card.html
+   name=site.data.authors.student2.name
+   bio=site.data.authors.student2.bio
+   avatar="/assets/images/people/student2.jpg"
+   links=site.data.authors.student2.links
+%}
+
+{% include people-card.html
+   name=site.data.authors.student3.name
+   bio=site.data.authors.student3.bio
+   avatar="/assets/images/people/student3.jpg"
+   links=site.data.authors.student3.links
+%}
+
+</div>
