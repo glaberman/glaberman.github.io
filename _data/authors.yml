@@ -1,5 +1,6 @@
 scott:
   name: "Scott Glaberman"
+  role: Principal Investigator
   bio: "Comparative toxicology, ecotoxicology, risk assessment, NAMs, cancer evolution"
   avatar: "/assets/images/people/scott.jpg"
   links:
@@ -12,6 +13,7 @@ scott:
 
 stephanie:
   name: "Stephanie Bulls"
+  role: PhD Student
   bio: "Comparative oncology, turtles, cell biology, cancer evolution"
   avatar: "/assets/images/people/stephanie.jpg"
   links:
@@ -24,6 +26,7 @@ stephanie:
       
 izzy:
   name: "Isabelle Kavanagh"
+  role: PhD Student
   bio: "Comparative toxicology, NAMs, cross-species extrapolation, Bayesian statistics, cellular toxicology"
   avatar: "/assets/images/people/izzy.jpg"
   links:
@@ -36,6 +39,7 @@ izzy:
 
 molly:
   name: "Molly Cooper"
+  role: PhD Student
   bio: "Nematode toxicology, alternative methods, neurotoxicity, pesticides"
   avatar: "/assets/images/people/molly.jpg"
   links:
@@ -48,6 +52,7 @@ molly:
 
 paula:
   name: "Paula Garcia"
+  role: PhD Student
   bio: "NAMs, Chemical Regulation, Risk Assessment"
   avatar: "/assets/images/people/molly.jpg"
   links:
