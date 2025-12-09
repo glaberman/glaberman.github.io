@@ -44,3 +44,9 @@
   border-bottom: none; /* remove separator for grid cards */
   padding-bottom: 1rem;
 }
+
+.people-card .role {
+  font-weight: 600;
+  color: #666;
+  margin-bottom: 0.4rem;
+}
