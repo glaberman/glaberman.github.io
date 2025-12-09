@@ -1,4 +1,3 @@
-/* TEST GLOBAL WIDTH */
-.page__content {
+.layout--single .page__content {
   max-width: 1400px !important;
 }
