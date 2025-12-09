@@ -7,22 +7,23 @@
 }
 
 .people-card img.bio-photo {
-  width: 140px;
-  height: 140px;
+  width: 260px;
+  height: 260px;
   border-radius: 50%;
-  margin-bottom: 1rem;
+  margin-bottom: 1.2rem;
 }
 
 .people-card h3 {
   margin-top: 0.3rem;
   margin-bottom: 0.2rem;
-  font-size: 1.2rem;
+  font-size: 1.35rem;
 }
 
 .people-card p.bio {
-  max-width: 380px;
-  margin: 0.5rem auto 1rem auto;
-  font-size: 1.0rem;
+  max-width: 520px;
+  margin: 0.6rem auto 1.2rem auto;
+  font-size: 1.05rem;
+  line-height: 1.5;
 }
 
 .people-card .social-icons a {
@@ -32,10 +33,10 @@
 
 .people-grid {
   display: grid;
-  grid-template-columns: repeat(2, 1fr);
-  gap: 3rem;
-  max-width: 900px;
-  margin: 2rem auto;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 4rem;
+  max-width: 1200px;   /* ← THIS is the big change */
+  margin: 3rem auto;
 }
 
 .people-grid .people-card {
