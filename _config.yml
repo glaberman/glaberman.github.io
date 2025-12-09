@@ -90,7 +90,3 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
-
-# Custom head includes
-include_head:
-  - head/custom.html
