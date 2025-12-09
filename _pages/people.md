@@ -2,30 +2,21 @@
 title: "People"
 permalink: /people/
 layout: single
+author_profile: false
 ---
 
-# Principal Investigator
+## Principal Investigator
 
-### **Scott Glaberman**  
-Comparative toxicology, NAMs, species differences, and environmental/human health risk assessment.
-
-**Links:**  
-- [Google Scholar](https://scholar.google.com/citations?user=UO613zAAAAAJ&hl=en)  
-- [ORCID](https://orcid.org/)  
-- [LinkedIn](https://www.linkedin.com/in/scott-glaberman-5267b616/)
+{% include author-profile.html author="scott" %}
 
 ---
 
-# Collaborators
+## Collaborators
 
-### **Ylenia Chiari**  
-Evolutionary genomics and conservation biology.  
-- [Google Scholar](https://scholar.google.com)
+{% include author-profile.html author="ylenia" %}
 
 ---
 
-# Students
+## Students
 
-### **Student Name**  
-Short description of research.  
-- [Google Scholar](#)
+{% include author-profile.html author="student1" %}
