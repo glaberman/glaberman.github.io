@@ -62,7 +62,7 @@
 .people-card .social-icons a {
   margin: 0 0.5rem;
   font-size: 1.2rem;
-   text decoration: none;
+  text-decoration: none;   /* ← removes the blue underscore */
 }
 
 /* =========================
