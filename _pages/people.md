@@ -2,50 +2,39 @@
 title: "People"
 permalink: /people/
 layout: single
+classes: people-page
 ---
 
 ## Principal Investigator
 
-![Scott Glaberman](/assets/images/people/scott.jpg){: .align-left .bio-photo }
-
-**Scott Glaberman**  
-Comparative toxicology, NAMs, species differences, risk assessment.
-
-<span class="social-icons">
-  <a href="https://scholar.google.com/citations?user=UO613zAAAAAJ&hl=en" target="_blank">
-    <i class="fas fa-fw fa-graduation-cap"></i> Google Scholar
-  </a> ·
-  <a href="https://www.linkedin.com/in/scott-glaberman-5267b616/" target="_blank">
-    <i class="fab fa-fw fa-linkedin"></i> LinkedIn
-  </a>
-</span>
-
----
+<div class="people-card">
+  <img src="/assets/images/people/scott.jpg" class="bio-photo" alt="Scott Glaberman">
+  <h3>Scott Glaberman</h3>
+  <p class="bio">Comparative toxicology, NAMs, species differences, risk assessment.</p>
+  <div class="social-icons">
+    <a href="https://scholar.google.com/citations?user=UO613zAAAAAJ&hl=en"><i class="fas fa-graduation-cap"></i></a>
+    <a href="https://www.linkedin.com/in/scott-glaberman-5267b616/"><i class="fab fa-linkedin"></i></a>
+  </div>
+</div>
 
 ## Collaborators
 
-![Ylenia Chiari](/assets/images/people/ylenia.jpg){: .align-left .bio-photo }
-
-**Ylenia Chiari**  
-Evolutionary genomics and conservation biology.
-
-<span class="social-icons">
-  <a href="https://scholar.google.com" target="_blank">
-    <i class="fas fa-fw fa-graduation-cap"></i> Google Scholar
-  </a>
-</span>
-
----
+<div class="people-card">
+  <img src="/assets/images/people/ylenia.jpg" class="bio-photo" alt="Ylenia Chiari">
+  <h3>Ylenia Chiari</h3>
+  <p class="bio">Evolutionary genomics and conservation biology.</p>
+  <div class="social-icons">
+    <a href="https://scholar.google.com"><i class="fas fa-graduation-cap"></i></a>
+  </div>
+</div>
 
 ## Students
 
-![Student](/assets/images/people/student1.jpg){: .align-left .bio-photo }
-
-**Student Name**  
-Short description of research.
-
-<span class="social-icons">
-  <a href="#" target="_blank">
-    <i class="fas fa-fw fa-graduation-cap"></i> Google Scholar
-  </a>
-</span>
+<div class="people-card">
+  <img src="/assets/images/people/student1.jpg" class="bio-photo" alt="Student Name">
+  <h3>Student Name</h3>
+  <p class="bio">Short description of research.</p>
+  <div class="social-icons">
+    <a href="#"><i class="fas fa-graduation-cap"></i></a>
+  </div>
+</div>
