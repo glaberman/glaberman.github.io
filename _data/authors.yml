@@ -15,7 +15,7 @@ stephanie:
   name: "Stephanie Bulls"
   role: PhD Student
   bio: "Comparative oncology, turtles, cell biology, cancer evolution"
-  avatar: "/assets/images/people/stephanie.jpg"
+  avatar: "/assets/images/people/scott.jpg"
   links:
     - label: "Google Scholar"
       icon: "fas fa-fw fa-graduation-cap"
@@ -28,7 +28,7 @@ izzy:
   name: "Isabelle Kavanagh"
   role: PhD Student
   bio: "Comparative toxicology, NAMs, cross-species extrapolation, Bayesian statistics, cellular toxicology"
-  avatar: "/assets/images/people/izzy.jpg"
+  avatar: "/assets/images/people/scott.jpg"
   links:
     - label: "Google Scholar"
       icon: "fas fa-fw fa-graduation-cap"
@@ -41,7 +41,7 @@ molly:
   name: "Molly Cooper"
   role: PhD Student
   bio: "Nematode toxicology, alternative methods, neurotoxicity, pesticides"
-  avatar: "/assets/images/people/molly.jpg"
+  avatar: "/assets/images/people/scott.jpg"
   links:
     - label: "Google Scholar"
       icon: "fas fa-fw fa-graduation-cap"
@@ -54,7 +54,7 @@ paula:
   name: "Paula Garcia"
   role: PhD Student
   bio: "NAMs, Chemical Regulation, Risk Assessment"
-  avatar: "/assets/images/people/molly.jpg"
+  avatar: "/assets/images/people/scott.jpg"
   links:
     - label: "Google Scholar"
       icon: "fas fa-fw fa-graduation-cap"
