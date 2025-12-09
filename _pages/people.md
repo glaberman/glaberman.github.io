@@ -3,6 +3,7 @@ title: "People"
 layout: single
 permalink: /people/
 author_profile: false
+header: false
 ---
 
 <div class="people-fullwidth">
