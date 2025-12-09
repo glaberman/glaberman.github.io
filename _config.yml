@@ -90,3 +90,7 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
+
+sass:
+  load_paths:
+    - assets/css
