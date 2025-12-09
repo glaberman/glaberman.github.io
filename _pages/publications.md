@@ -9,16 +9,6 @@ classes: wide
 Below is a curated list of peer-reviewed articles, book chapters, and policy outputs authored or co-authored by members of the Comparative Toxicology Lab. **Lab members are bolded** throughout.
 
 ---
-title: "Publications"
-permalink: /publications/
-layout: single
-author_profile: false
-classes: wide
----
-
-Below is a curated list of peer-reviewed articles, book chapters, and policy outputs authored or co-authored by members of the Comparative Toxicology Lab. **Lab members are bolded** throughout.
-
----
 
 # 🟦 2025
 - Burden N., Mitchell C.A., Dang Z., Embry M.R., **Glaberman S.**, Lagadic L., Lynn S.G., Marini J., Mihaich E., McDermott E., Krzykwa J., Salinas E.R., Schoenfuss H., Thorpe K., Weltje L., Wheeler J.R. (2025). *Evaluation of in vivo fish and amphibian endocrine test guideline assays: current status and future needs.* **Environmental Toxicology and Chemistry**, 44(6):1477–1496. [https://doi.org/10.1093/etojnl/vgaf064](https://doi.org/10.1093/etojnl/vgaf064)
